@@ -12,6 +12,8 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudmoonocus&repo=Netease-Cloud-Music-ALL&theme=gruvbox)](https://github.com/cloudmoonocus/Netease-Cloud-Music-ALL)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudmoonocus&repo=Netease-Cloud-Music&theme=gruvbox)](https://github.com/cloudmoonocus/Netease-Cloud-Music)
+
 ------
 
  **Hope to communicate with students who love the Front-end**
