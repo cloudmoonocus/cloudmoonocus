@@ -4,7 +4,6 @@
 
  📧 **E-mail:** f356660222@foxmail.com
 
- 🖊 **Blog:** https://cloudmoonocus.github.io
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmoonocus&show_icons=true&theme=cobalt)
 
