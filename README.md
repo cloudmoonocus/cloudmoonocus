@@ -1,6 +1,6 @@
  👨🏻‍🎓 **Student** | On the road of loving Front-end Development | NEU@China
 
- 💬 **WeChat:** fsk356660222
+ 💬 **WeChat:** cloud356660222
 
  📧 **E-mail:** f356660222@foxmail.com
 
