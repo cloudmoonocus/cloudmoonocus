@@ -7,4 +7,5 @@
 *<!--START_SECTION:waka-->*
 *<!--END_SECTION:waka-->*
 
-![image](https://user-images.githubusercontent.com/98140702/183547184-81575b77-5190-45c5-9d00-74c8d0acac9f.png)
+![image](https://user-images.githubusercontent.com/98140702/184277945-22813b97-b52a-4b35-9e2e-442c46e47b76.png)
+![image](https://user-images.githubusercontent.com/98140702/184278080-d575e785-f2b0-4271-9b00-373e5f3c7060.png)
