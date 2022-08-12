@@ -1,6 +1,6 @@
 #  😎Hey! Nice to meet you!
 
-![Cloudmoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmoonocus&show_icons=true&theme=solarized-light&card_width=550)
+![Cloudmoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmoonocus&show_icons=true&theme=solarized-light&card_width=650)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudmoonocus&card_width=550)](https://github.com/cloudmoonocus)
 
