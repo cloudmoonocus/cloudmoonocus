@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudmoonocus" alt="cloudmoonocus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/moonClo57056359
-" target="blank"><img src="https://img.shields.io/twitter/follow/moonClo57056359
-?logo=twitter&style=for-the-badge" alt="cloudmoon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/moonclo57056359" target="blank"><img src="https://img.shields.io/twitter/follow/moonclo57056359?logo=twitter&style=for-the-badge" alt="moonclo57056359" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend and Communication Engineering**
 
@@ -23,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ocus-nb-cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ocus-nb-cloud" height="30" width="40" /></a>
-<a href="https://twitter.com/cloudmoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudmoon" height="30" width="40" /></a>
-<a href="https://discord.gg/Cloudmoon#6698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cloudmoon#6698" height="30" width="40" /></a>
+<a href="https://codepen.io/ocus-nb-cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocus-nb-cloud" height="30" width="40" /></a>
+<a href="https://twitter.com/moonclo57056359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonclo57056359" height="30" width="40" /></a>
+<a href="https://discord.gg/6698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6698" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
