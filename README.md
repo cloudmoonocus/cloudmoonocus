@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudmoonocus" alt="cloudmoonocus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cloudmoon" target="blank"><img src="https://img.shields.io/twitter/follow/cloudmoon?logo=twitter&style=for-the-badge" alt="cloudmoon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/moonClo57056359
+" target="blank"><img src="https://img.shields.io/twitter/follow/moonClo57056359
+?logo=twitter&style=for-the-badge" alt="cloudmoon" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend and Communication Engineering**
 
