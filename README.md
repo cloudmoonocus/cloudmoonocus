@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cloudmoonocus&label=Profile%20views&color=0e75b6&style=flat" alt="cloudmoonocus" /></p>
 <p align="center"> <img src="https://wakatime.com/badge/user/73455cc8-f996-4e02-8893-aae0c93d291c.svg" alt="cloudmoonocus" /></p>
-
+<p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudmoon/82a7d687-5691-4470-a027-a058186d7469.png" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudmoonocus" alt="cloudmoonocus" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/moonclo57056359" target="blank"><img src="https://img.shields.io/twitter/follow/moonclo57056359?logo=twitter&style=for-the-badge" alt="moonclo57056359" /></a> </p>
