@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://juejin.cn/user/1095541400549022/posts](https://juejin.cn/user/1095541400549022/posts)
 
-- 💬 Ask me about **CSS, Vue and so on**
+- 💬 Ask me about **CSS, Vue, React and so on**
 
 - 📫 How to reach me **f356660222@foxmail.com**
 
@@ -72,6 +72,14 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs"
+        width="40"
+        height="40"
+    />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react"
         width="40"
         height="40"
     />
