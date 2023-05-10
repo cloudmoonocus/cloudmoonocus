@@ -3,6 +3,7 @@
 <h3 align="center">19-year-old college student</h3>
 
 <p align="center"> <img src="https://wakatime.com/badge/user/73455cc8-f996-4e02-8893-aae0c93d291c.svg" alt="cloudmoonocus" /></p>
+<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudmoonocus&show_icons=true&theme=radical)</p>
 <p align="center"> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudmoon/82a7d687-5691-4470-a027-a058186d7469.png" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudmoonocus" alt="cloudmoonocus" /></a> </p>
 
