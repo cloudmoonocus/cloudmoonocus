@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cloudmoon (Shaokang Feng)</h1>
+<h1 align="center">Hi 👋, I'm Cloudmoon (Sean Feng)</h1>
 <div align="center"> <img src="https://github.com/cloudmoonocus/cloudmoonocus/assets/98140702/cd7ec259-e6fb-4551-a2b7-ffa11aadcb34" alt="NEU" width="380" /></div>
 <div align="center"> <img src="https://wakatime.com/badge/user/73455cc8-f996-4e02-8893-aae0c93d291c.svg" alt="wakatimeTimer" width="240" /></div>
 <br />
